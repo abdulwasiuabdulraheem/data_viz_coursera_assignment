@@ -1,4 +1,5 @@
-# data_viz_coursera_assignment
+# interactive-visualizations-coursera-assignment
+
 
 In this peer review assignment, I created interactive visualizations of US domestic airline flights performance. 
 
